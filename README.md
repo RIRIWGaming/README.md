@@ -1,6 +1,6 @@
 <h1 align="center">HELLOツ<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>RIRIW Gaming Was Here!</h1>
 
-![My card name](https://cardivo.vercel.app/api?name=RIRIW Gaming&description=Hallo, Perkenalkan Saya Raihan, Saya Masih Remaja, Dan Saya Tinggal Di Jawa:v&image=https://i.ibb.co/d2LLpW9/ririwgaming.jpg&backgroundColor=%23ecf0f1&YouTube=RIRIWGaming&Instagram=@ririwgaming&WhatsApp=083833271665&pattern=leaf&colorPattern=%23eaeaea)
+#[My card name](https://cardivo.vercel.app/api?name=RIRIW Gaming&description=Hallo, Perkenalkan Saya Raihan, Saya Masih Remaja, Dan Saya Tinggal Di Jawa&image=https://i.ibb.co/d2LLpW9/ririwgaming.jpg&backgroundColor=%23ecf0f1&YouTube=RIRIWGaming&Instagram=@ririwgaming&WhatsApp=083833271665&pattern=leaf&colorPattern=%23eaeaea)
 
 </p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
