@@ -45,43 +45,64 @@
   <a href="https://youtube.com/channel/UC62I9onSXyoweJ076dSCpkA"><img src="https://img.shields.io/badge/YouTube-RIRIW Gaming-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtube.com/channel/UC62I9onSXyoweJ076dSCpkA" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
 
-## Clone this project
+</details>
 
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗥𝗔𝗠𝗟𝗔𝗡 𝗜𝗗
+
+### WARNING
+MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+
+## NOTE:> 
+SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
+</div>
+
+### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
+Siapin alat dan bahannya.
 ```bash
+> niat
+> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
+> jaringan internet kenceng,kuota+
+> penyimpanan yang memadai
+> aplikasi whatsapp
+> aplikasi termux
+> kopi+rokok ;v
+```
+
+### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+```bash
+> kalo lu belum punya apk termux, download di playstore
+> masuk ke apk termux lalu ketik dibawah ini!
+> termux-setup-storage [ Lalu Ijinkan ]
+> apt-get update -y
+> apt-get upgrade -y
+> pkg update -y
+> pkg upgrade -y
+> pkg install git -y
+> pkg install bash -y
+> pkg install mc -y
 > git clone https://github.com/RIRIWGaming/HENBOTZ
-```
-
-```bash
->Command BOT #
-```
-
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
-
-```bash
 > cd HENBOTZ
 > bash install.sh
 > npm i
-```
-
-### Usage
-```bash
 > npm start
+> SCAN DAH BRO MHEHE EZ KAN:V
 ```
 
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+NOTE: Script ini gratis ye Jangan dijual_-
 
+## DONATE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
+* [`Saweria`](https://saweria.co/donate/RIRIWGaming)
 
+## SOSIAL MEDIA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+* [`Youtube`](https://youtube.com/c/RIRIWGaming)
+* [`Instagram`](https://instagram.com/ririwgaming)
+* [`WhatsApp`](https://wa.me/6283833271665)
+* [`Group WhatsApp`](https://chat.whatsapp.com/JtLdKWXdrDuHeag96CQ3GM)
 
-
-## Special Thanks to
+## SPECIAL THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 
-
-## Group
-* [`WhatsApp`](https://wa.me/6283833271665)
-### Donate
-* [`Saweria`](https://saweria.co/donate/RIRIWGaming)
+<p align="center">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="400" />
