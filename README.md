@@ -1,4 +1,4 @@
-<h1 align="center">HELLOツ<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>RIRIW Gaming Was Here!</h1>
+<h1 align="center">HELLO<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'Am RIRIW Gaming!</h1>
 
 <p align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="350" />
@@ -52,7 +52,7 @@
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
 
-## NOTE:> 
+## NOTE
 SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
 </div>
 
@@ -89,8 +89,6 @@ Siapin alat dan bahannya.
 ```
 
 
-NOTE: Script ini gratis ye Jangan dijual_-
-
 ## DONATE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * [`Saweria`](https://saweria.co/donate/RIRIWGaming)
 
@@ -104,5 +102,4 @@ NOTE: Script ini gratis ye Jangan dijual_-
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 
-<p align="center">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="400" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="450" />
