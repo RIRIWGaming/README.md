@@ -42,8 +42,8 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/channel/UC62I9onSXyoweJ076dSCpkA"><img src="https://img.shields.io/badge/YouTube-RIRIW Gaming-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtube.com/channel/UC62I9onSXyoweJ076dSCpkA" /></a>
-  <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
+    <a href="mailto:ririwgaming@gmail.com"><img src="https://img.shields.io/badge/Gmail-@ririwgaming-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=mailto:ririwgaming@gmail.com" /></a>
+  <a name=RIRIWGaming&label=VIEWS&style=flat-square&color=orange" />
 
 </details>
 
@@ -85,7 +85,9 @@ Siapin alat dan bahannya.
 > bash install.sh
 > npm i
 > npm start
-> SCAN DAH BRO MHEHE EZ KAN:V
+> lalu scan di WhatsApp, pencet titik 3 pojok kanan atas,
+  lalu pencet WhatsApp Web, lalu scan dah
+## QR CODE EXPIRED/KADALUWARSA DALAM 20 DETIK!!
 ```
 
 
