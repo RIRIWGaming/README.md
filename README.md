@@ -56,14 +56,12 @@ MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
 SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN
 </div>
 
-### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
+### BAHAN-BAHAN UNTUK MENJADI BOT<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 # (UNTUK PENGGUNA HP ANDROID)
-
 * [APK TERMUX](https://play.google.com/store/apps/details?id=com.termux)
 * [APK WHATSAPP](https://play.google.com/store/apps/details?id=com.whatsapp)
 
 # (UNTUK PENGGUNA LAPTOP/PC)
-
 * [NODEJS](https://nodejs.org/en/)
 * [GIT](https://git-scm.com/downloads)
 * [FFMPEG](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
@@ -102,11 +100,15 @@ Install SCnya dulu lalu kalian ekstrak di desktop
 * [`Youtube`](https://youtube.com/c/RIRIWGaming)
 * [`Instagram`](https://instagram.com/ririwgaming)
 * [`WhatsApp`](https://wa.me/6283833271665)
+* [`Facebook`](https://m.facebook.com/raihan.ridho.90260)
+* [`Telegram`](https://t.me/6283833271665)
+* [`Twitter`](https://twitter.com/Clara_Lope_Ku)
 * [`Group WhatsApp`](https://chat.whatsapp.com/JtLdKWXdrDuHeag96CQ3GM)
+
 
 ## SPECIAL THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Yudaxwer`](https://github.com/YudaXwer)
+* [`Yudaxwer`](https://github.com/yudadika21)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="450" />
