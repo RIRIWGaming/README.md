@@ -53,43 +53,57 @@
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
 
 ## NOTE
-SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
+SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN
 </div>
 
 ### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
-Siapin alat dan bahannya.
+(UNTUK PENGGUNA HP ANDROID)
 ```bash
 > niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
-> jaringan internet kenceng,kuota+
-> penyimpanan yang memadai
+> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr)
+> jaringan internet yang lancar
+> penyimpanan yang cukup
 > aplikasi whatsapp
 > aplikasi termux
-> kopi+rokok ;v
 ```
 
-### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
+(UNTUK PENGGUNA LAPTOP/PC)
 ```bash
-> kalo lu belum punya apk termux, download di playstore
-> masuk ke apk termux lalu ketik dibawah ini!
-> termux-setup-storage [ Lalu Ijinkan ]
+> niat
+> 1 handphone (buat scan qr doang)
+> jaringan internet yang lancar
+> penyimpanan yang cukup
+> nodejs
+> git
+> ffmpeg
+> libwebp
+```
+
+### CARA INSTALL DI TERMUX  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+```bash
+> termux-setup-storage [ Lalu Izinkan ]
 > apt-get update -y
 > apt-get upgrade -y
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
 > pkg install bash -y
-> pkg install mc -y
 > git clone https://github.com/RIRIWGaming/HENBOTZ
 > cd HENBOTZ
 > bash install.sh
 > npm i
-> npm start
-> lalu scan di WhatsApp, pencet titik 3 pojok kanan atas,
-  lalu pencet WhatsApp Web, lalu scan dah
-## QR CODE EXPIRED/KADALUWARSA DALAM 20 DETIK!!
+> rm -rf session.json
+> node index.js / npm start
 ```
 
+### CARA INSTALL DI CMD  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+Install SCnya dulu lalu kalian ekstrak di desktop
+```bash
+> cd HENBOTZ-main
+> npm i
+> npm start
+```
 
 ## DONATE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * [`Saweria`](https://saweria.co/donate/RIRIWGaming)
@@ -103,5 +117,6 @@ Siapin alat dan bahannya.
 ## SPECIAL THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
+* [`Yudaxwer`](https://github.com/YudaXwer)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="450" />
