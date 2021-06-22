@@ -57,24 +57,18 @@ SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN
 </div>
 
 ### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
-(UNTUK PENGGUNA HP ANDROID)
-```bash
-> NIAT
-> 2 HANDPHONE (1 buat jalanin sc, 1 buat scan kode qr)
+* (UNTUK PENGGUNA HP ANDROID)
+
 > [APK TERMUX](https://play.google.com/store/apps/details?id=com.termux)
 > [APK WHATSAPP](https://play.google.com/store/apps/details?id=com.whatsapp)
-```
 
-### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
-(UNTUK PENGGUNA LAPTOP/PC)
-```bash
-> NIAT
-> 1 HANDPHONE (buat scan qr doang)
+* (UNTUK PENGGUNA LAPTOP/PC)
+
 > [NODEJS](https://nodejs.org/en/)
 > [GIT](https://git-scm.com/downloads)
 > [FFMPEG](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 > [LIBWEBP](https://developers.google.com/speed/webp/download)
-```
+
 
 ### CARA INSTALL DI TERMUX  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 ```bash
