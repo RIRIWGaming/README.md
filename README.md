@@ -5,7 +5,7 @@
 <div align="center">
 
 <p align="center">
-<a href="#"><img title="HENBOTZ" src="https://img.shields.io/badge/HENBOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SELFBOT" src="https://img.shields.io/badge/HENBOTZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/RIRIWGaming"><img title="Author" src="https://img.shields.io/badge/Author-RIRIWGaming-red.svg?style=for-the-badge&logo=github"></a>
@@ -77,18 +77,18 @@ SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN
 > pkg upgrade -y
 > pkg install git -y
 > pkg install bash -y
-> git clone https://github.com/RIRIWGaming/HENBOTZ
-> cd HENBOTZ
+> git clone https://github.com/RIRIWGaming/SELFBOT
+> cd SELFBOT
 > bash install.sh
 > npm i
 > rm -rf session.json
-> node index.js / npm start
+> npm start
 ```
 
 ### CARA INSTALL DI CMD  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 Install SCnya dulu lalu kalian ekstrak di desktop
 ```bash
-> cd HENBOTZ-main
+> cd SELFBOT
 > npm i
 > npm start
 ```
@@ -104,11 +104,3 @@ Install SCnya dulu lalu kalian ekstrak di desktop
 * [`Telegram`](https://t.me/6283833271665)
 * [`Twitter`](https://twitter.com/Clara_Lope_Ku)
 * [`Group WhatsApp`](https://chat.whatsapp.com/JtLdKWXdrDuHeag96CQ3GM)
-
-
-## SPECIAL THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
-* [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Yudaxwer`](https://github.com/yudadika21)
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="450" />
